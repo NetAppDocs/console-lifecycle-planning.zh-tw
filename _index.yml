@@ -1,0 +1,42 @@
+---
+indexpage:
+  title: 生命週期規劃文檔
+  summary: 生命週期規劃可識別目前或預測容量較低的集群，並為您提供有關資料分層的建議。
+  keywords: technology refresh, tech refresh, AFF, capacity, economic efficiency,
+    bluexp, data tier, hardware end of life, lifecycle planning
+  lead: 生命週期規劃可識別目前或預測容量較低的集群，並為您提供有關資料分層的建議。
+  tiles:
+  - title: 開始
+    links:
+    - title: 了解生命週期規劃
+      url: "/get-started/intro.html"
+    - title: 生命週期規劃中的新增功能
+      url: "/release-notes/whats-new.html"
+    - title: 快速啟動
+      url: "/get-started/quick-start.html"
+    - title: 先決條件
+      url: "/get-started/prerequisites.html"
+    - title: 登入生命週期規劃
+      url: "/get-started/capacity-login.html"
+    - title: 常問問題
+      url: "/get-started/faq.html"
+  - title: 使用生命週期規劃
+    links:
+    - title: 審查並修復容量問題
+      url: "/use/capacity-remediate-overview.html"
+    - title: 審查產能狀況
+      url: "/use/capacity-review-status.html"
+    - title: 增加容量
+      url: "/use/capacity-add.html"
+    - title: 將冷數據分層到雲端存儲
+      url: "/use/capacity-tier-data.html"
+    - title: 設定提醒以再次檢查
+      url: "/use/capacity-reminders.html"
+  - title: 部落格和社區
+    links:
+    - title: NetApp控制台
+      url: https://www.netapp.com/console
+    - title: NetApp資料服務
+      url: https://www.netapp.com/data-services/
+    - title: NetApp社群
+      url: https://community.netapp.com

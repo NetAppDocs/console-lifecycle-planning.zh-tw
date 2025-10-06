@@ -1,0 +1,9 @@
+= 技術更新
+:allow-uri-read: 
+
+
+
+
+=== 技術更新
+
+此版本的BlueXP economic efficiency包含一個新選項，用於評估您的資產並確定是否建議進行技術更新。  BlueXP economic efficiency包括左側導覽中的一個新的技術刷新選項、您可以評估當前工作量和資產的新頁面以及向您提供建議的報告。

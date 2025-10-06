@@ -1,0 +1,13 @@
+= 已停用的功能
+:allow-uri-read: 
+
+
+
+
+=== 已停用的功能
+
+一些BlueXP economic efficiency功能已被暫時停用：
+
+* 技術更新
+* 增加容量
+

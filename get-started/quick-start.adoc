@@ -1,0 +1,33 @@
+---
+sidebar: sidebar 
+permalink: get-started/quick-start.html 
+keywords: how to get started with NetApp lifecycle planning, economic efficiency, bluexp,lifecycle planning quick start, capacity planning 
+summary: 只需幾個步驟即可開始使用NetApp生命週期規劃服務。 
+---
+= 生命週期規劃快速入門
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/get-started/
+
+
+[role="lead"]
+以下是開始生命週期規劃所需步驟的概述。每個步驟中的連結都會將您帶到提供更多詳細資訊的頁面。
+
+.image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-1.png["一"]審查先決條件
+[role="quick-margin-para"]
+link:../get-started/prerequisites.html["確保您的環境符合這些要求"] 。
+
+.image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-2.png["二"]設定生命週期規劃
+[role="quick-margin-para"]
+link:../get-started/capacity-setup.html["完成設定生命週期規劃的步驟"] 。
+
+.image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-3.png["三"]下一步是什麼？
+[role="quick-margin-para"]
+設定生命週期規劃後，您可以執行以下操作。
+
+[role="quick-margin-list"]
+* link:../use/capacity-review-status.html["審查產能狀況"] 。
+* link:../use/capacity-tier-data.html["將冷數據分層到雲端儲存以釋放儲存空間"] 。
+* link:../use/capacity-reminders.html["（可選）設定提醒以再次檢查"] 。
+

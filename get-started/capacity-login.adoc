@@ -1,0 +1,29 @@
+---
+sidebar: sidebar 
+permalink: get-started/capacity-login.html 
+keywords: bluexp login, capacity planning log in, economic efficiency,lifecycle planning 
+summary: 透過存取NetApp控制台開始生命週期規劃。 
+---
+= 訪問生命週期規劃
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/get-started/
+
+
+[role="lead"]
+您可以使用NetApp控制台存取生命週期規劃。
+
+若要登入控制台，您可以使用NetApp支援網站憑證。 https://docs.netapp.com/us-en/bluexp-setup-admin/task-logging-in.html["了解有關登入的更多信息"^] 。
+
+
+TIP: 您可以透過NetApp控制台（*儲存* > *生命週期規劃*）或透過Digital Advisor （*儀表板* > *規劃小工具* > *技術更新*）存取此功能。
+
+.步驟
+. 打開網頁瀏覽器並前往 https://console.netapp.com/["NetApp控制台"^]。
++
+出現控制台登入頁面。
+
+. 登入控制台。
+. 從控制台左側導覽中，選擇*儲存*>*生命週期規劃*。
+

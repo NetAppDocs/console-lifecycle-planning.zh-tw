@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: use/capacity-reminders.html 
+keywords: bluexp, lifecycle planning remediate, lifecycle planning, capacity planning, set reminders for capacity, economic efficiency, capacity, tier cold, cold data 
+summary: 您無需添加容量或分層冷數據，而是可以選擇此時不採取任何操作，並為自己設定提醒，以便在 30、60 或 90 天後再次檢查。 
+---
+= 設定提醒以在生命週期規劃中再次檢查
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+在生命週期規劃中，您可以選擇此時不採取任何行動，並為自己設定提醒，以便在 30、60 或 90 天後再次檢查，而不是添加容量或分層冷資料。
+
+.步驟
+. link:../get-started/capacity-login.html["登入NetApp控制台"] 。
+. 為資產選擇*評估儲存選項*。
+. 選擇*無需採取任何行動*。
+. 選擇何時再次收到有關潛在容量不足問題的通知：30、60 或 90 天。
+. 選擇*儲存*。
+
+
+.結果
+這段時間過去後，該風險會再次出現在風險清單中。

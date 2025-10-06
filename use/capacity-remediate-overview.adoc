@@ -1,0 +1,22 @@
+---
+sidebar: sidebar 
+permalink: use/capacity-remediate-overview.html 
+keywords: lifecycle planning remediate, lifecycle planning, capacity planning, economic efficiency,bluexp 
+summary: NetApp生命週期規劃容量規劃使用 AI 來預測資料成長以幫助規劃過程。 
+---
+= 審查並修復生命週期規劃發現的容量問題
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+容量規劃涉及識別環境中當前和預測的低容量區域。生命週期規劃使用人工智慧來預測資料成長以幫助規劃過程。生命週期規劃可識別您環境中那些低容量的區域。
+
+使用生命週期規劃，您可以實現以下目標：
+
+* link:../use/capacity-review-status.html["審查產能狀況"]
+* link:../use/capacity-tier-data.html["將冷數據分層到雲端儲存並釋放儲存空間"]
+* link:../use/capacity-reminders.html["選擇不採取任何行動並設定提醒以再次檢查"]
+

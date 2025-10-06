@@ -1,0 +1,12 @@
+---
+section: use
+title: 使用NetApp生命週期規劃
+entries:
+- title: 審查並修復容量問題
+  url: "/use/capacity-remediate-overview.html"
+- title: 審查產能狀況
+  url: "/use/capacity-review-status.html"
+- title: 將冷數據分層到雲端存儲
+  url: "/use/capacity-tier-data.html"
+- title: 設定提醒以再次檢查
+  url: "/use/capacity-reminders.html"

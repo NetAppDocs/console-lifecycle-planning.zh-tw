@@ -1,0 +1,52 @@
+---
+sidebar: sidebar 
+permalink: use/capacity-tier-data.html 
+keywords: economic efficiency remediate, economic efficiency, capacity planning, add capacity, lifecycle planning 
+summary: 生命週期規劃根據預測的資料成長提供建議。您可以接受預測或輸入您自己的預測。基於此，該服務提出滿足預計容量成長且最適合資產配置的建議。其中一項建議可能是將冷資料分層到雲端儲存以釋放容量。此建議啟動了與另一款產品NetApp Cloud Tiering 的連接。 
+---
+= 將冷數據分層到雲端儲存並釋放生命週期規劃確定的儲存空間
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+生命週期規劃根據預測的數據成長提供建議。您可以接受預測或輸入您自己的預測。基於此，生命週期規劃提出了滿足預期容量成長和最適合儲存資產配置的建議。其中一項建議可能是將冷資料分層到雲端儲存以釋放容量。此建議啟動了與另一款產品NetApp Cloud Tiering 的連接。
+
+從那裡，您可以對資料進行分層並輕鬆返回生命週期規劃以對其他系統採取行動。
+
+雲端分層過程包括以下過程：
+
+* 部署控制台代理
+* 發現集群
+* 設定雲端分層
+
+
+.步驟
+. link:../get-started/capacity-login.html["登入NetApp控制台"] 。
+. 為資產選擇*評估儲存選項*。
+. 選擇*Tier Cold Data*。
+. 接下來的步驟取決於您是否已經部署了控制台代理程式以及是否已經發現叢集：
++
+** 如果需要部署控制台代理，請參閱NetApp控制台文檔，其中介紹了 https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["如何建立控制台代理"^]。否則，如果您已經部署了控制台代理，則不會出現部署代理程式的選項。
+** 如果服務需要發現集群，請參考 https://docs.netapp.com/us-en/bluexp-ontap-onprem/task-discovering-ontap.html["發現本地ONTAP集群"^]。否則，如果叢集已被發現，則不會出現發現叢集的選項。
++
+生命週期規劃啟動與另一款產品NetApp Cloud Tiering 的連結。
+
++
+image:capacity-tier-cold-data.png["容量頁面顯示對冷資料進行分層的選項"]
+
+
+
+. 選擇*部署代理*。
+. 選擇一個雲端提供者，然後選擇*繼續*。
+. 選擇*繼續*或*跳至部署*。
++
+部署控制台代理程式後， NetApp Cloud Tiering 會發現叢集（如果尚未發現）。
+
+. 發現集群後，設定分層。
++
+有關分層的詳細信息，請參閱 https://docs.netapp.com/us-en/bluexp-tiering/index.html["NetApp Cloud Tiering 文檔"^]。
+
+

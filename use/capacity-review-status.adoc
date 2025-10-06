@@ -1,0 +1,42 @@
+---
+sidebar: sidebar 
+permalink: use/capacity-review-status.html 
+keywords: lifecycle planning remediate, lifecycle planning, capacity planning, forecast, capacity, storage, economic efficiency 
+summary: '如果您的叢集目前低於或預測低於 70% 容量的閾值，生命週期規劃會將其識別為低容量資源並向您發出警報。' 
+---
+= 檢討生命週期規劃中的產能狀態
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+如果您環境中的儲存資產目前低於或預期低於 90% 容量的閾值，生命週期規劃會將其識別為低容量資源並向您發出警報。此外，生命週期規劃也提供是否應該分層資料的建議。
+
+您可以查看以下類型的資料來協助解決容量問題。
+
+* 平台
+* 資產所在國家
+* 每月當前和預測的產能
+
+
+.步驟
+. link:../get-started/capacity-login.html["登入NetApp控制台"] 。
+. 從左側導覽中選擇*容量*。
++
+image:capacity-page.png["顯示系統清單的容量頁面"]
+
+. 從容量頁面中選擇一個系統。
++
+image:capacity-evaluate-storage-capacity.png["生命週期規劃中的容量頁面"]
+
+. 為資產選擇*評估儲存選項*。
+. 選擇以下選項之一：
++
+** *最佳實踐*：點擊連結繼續查看最佳實踐。
+** *層冷資料*：繼續link:../use/capacity-tier-data.html["將冷數據分層到雲端儲存並釋放儲存空間"]。
+** *無需採取任何行動*：繼續link:../use/capacity-reminders.html["選擇不採取任何行動並設定提醒以再次檢查"]。
+
+
+

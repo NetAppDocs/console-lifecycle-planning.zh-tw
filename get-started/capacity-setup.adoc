@@ -1,0 +1,40 @@
+---
+sidebar: sidebar 
+permalink: get-started/capacity-setup.html 
+keywords: bluexp, lifecycle planning remediate, lifecycle planning, capacity planning, set reminders for capacity,lifecycle planning 
+summary: 若要使用生命週期規劃，請執行幾個步驟進行設定。 
+---
+= 設定生命週期規劃
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/get-started/
+
+
+[role="lead"]
+若要使用生命週期規劃，請執行幾個步驟進行設定。
+
+* 審查link:../get-started/prerequisites.html["先決條件"]以確保您的系統已準備就緒。
+* 在NetApp控制台中建立控制台代理程式。
+* 在控制台中發現集群。
+
+
+您可以直接在控制台中建立控制台代理，並在以後以BlueXP economic efficiency使用該代理。或者，您可以在容量修復過程的中間建立控制台代理。
+
+同樣，您可以使用控制台或在容量修復過程中提前發現叢集。
+
+
+
+== 在NetApp控制台中建立控制台代理
+
+NetApp控制台代理程式包含NetApp ONTAP機器的憑證。
+
+若要在使用服務之前在控制台中建立控制台代理，請參閱描述 https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["如何建立NetApp控制台代理"^]。
+
+
+
+== 在NetApp控制台中發現集群
+
+設定的一部分涉及識別控制台內的叢集名稱、IP、使用者名稱和密碼。
+
+有關使用生命週期規劃之前的說明，請參閱 https://docs.netapp.com/us-en/bluexp-ontap-onprem/task-discovering-ontap.html["發現本地ONTAP集群"^]。

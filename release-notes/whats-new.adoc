@@ -1,0 +1,89 @@
+---
+sidebar: sidebar 
+permalink: release-notes/whats-new.html 
+keywords: economic efficiency faq, bluexp, lifecycle planning frequently asked questions 
+summary: NetApp生命週期規劃服務可識別目前或預測容量較低的叢集，並為您提供有關資料分層或額外容量（針對AFF系統）的建議。該服務也為即將報廢的系統提供技術更新建議。 
+---
+= 生命週期規劃中的新增功能
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+了解生命週期規劃中的新內容。
+
+
+
+== 2025年10月6日
+
+
+
+=== BlueXP economic efficiency現在是生命週期規劃
+
+BlueXP economic efficiency已更名為生命週期規劃。
+
+您可以透過選擇「NetApp控制台」左側導覽列中的「儲存」>「生命週期規劃」來存取它。
+
+
+
+=== BlueXP現在是NetApp控制台
+
+NetApp控制台建立在增強和重組的BlueXP基礎之上，可在企業級內部和雲端環境中集中管理NetApp儲存和NetApp資料服務，提供即時洞察、更快的工作流程和簡化的管理，並且高度安全且合規。
+
+有關更改的詳細信息，請參閱link:https://docs.netapp.com/us-en/bluexp-relnotes/index.html["NetApp控制台發行說明"]。
+
+
+
+== 2024年5月15日
+
+
+
+=== 已停用的功能
+
+一些BlueXP economic efficiency功能已被暫時停用：
+
+* 技術更新
+* 增加容量
+
+
+
+
+== 2024年3月14日
+
+
+
+=== 技術更新選項
+
+如果您已有現有資產並想確定某項技術是否需要更新，則可以使用BlueXP經濟效率技術更新選項。您可以查看當前工作負載的簡短評估並獲得建議，或者如果您在過去 90 天內將AutoSupport日誌傳送給NetApp ，該服務現在可以提供工作負載模擬，以查看工作負載在新硬體上的表現。
+
+您也可以新增工作負載並從模擬中排除現有工作負載。
+
+以前，您只能對您的資產進行評估並確定是否建議進行技術更新。
+
+該功能現在是左側導覽中技術更新選項的一部分。
+
+詳細了解 https://docs.netapp.com/us-en/bluexp-economic-efficiency/use/tech-refresh.html["評估技術更新"]。
+
+
+
+== 2023年11月8日
+
+
+
+=== 技術更新
+
+此版本的BlueXP economic efficiency包含一個新選項，用於評估您的資產並確定是否建議進行技術更新。  BlueXP economic efficiency包括左側導覽中的一個新的技術刷新選項、您可以評估當前工作量和資產的新頁面以及向您提供建議的報告。
+
+
+
+== 2023年4月2日
+
+
+
+=== 引進BlueXP economic efficiency
+
+新的BlueXP economic efficiency可識別目前或預測容量較低的儲存資產，並為內部AFF系統提供資料分層或額外容量的建議。
+
+link:https://docs.netapp.com/us-en/bluexp-economic-efficiency/get-started/intro.html["了解有關NetApp經濟效率的更多信息"] 。

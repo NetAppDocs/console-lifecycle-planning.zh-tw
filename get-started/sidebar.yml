@@ -1,0 +1,16 @@
+---
+section: get-started
+title: 開始
+entries:
+- title: 了解生命週期規劃
+  url: "/get-started/intro.html"
+- title: 先決條件
+  url: "/get-started/prerequisites.html"
+- title: 快速啟動
+  url: "/get-started/quick-start.html"
+- title: 設定生命週期規劃
+  url: "/get-started/capacity-setup.html"
+- title: 訪問生命週期規劃
+  url: "/get-started/capacity-login.html"
+- title: 常問問題
+  url: "/get-started/faq.html"

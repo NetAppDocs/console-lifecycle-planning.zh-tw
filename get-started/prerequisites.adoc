@@ -1,0 +1,24 @@
+---
+sidebar: sidebar 
+permalink: get-started/prerequisites.html 
+keywords: what are NetApp lifecycle planning requirements, lifecycle planning prerequisites 
+summary: 透過驗證對您的環境、網路存取、登入和 Web 瀏覽器的支援來開始NetApp生命週期規劃。 
+---
+= 生命週期規劃先決條件
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/get-started/
+
+
+[role="lead"]
+透過驗證操作環境、登入和網路存取的準備情況開始生命週期規劃。要使用生命週期規劃，您應該確保您的環境符合所有要求。
+
+* 您的環境必須符合所有NetApp控制台要求，包括從 Web 瀏覽器登入和網路存取。
++
+請參閱 https://docs.netapp.com/us-en/bluexp-setup-admin/task-quick-start-standard-mode.html["NetApp控制台快速入門"^]和 https://docs.netapp.com/us-en/bluexp-setup-admin/reference-networking-saas-console.html["NetApp控制台網路訊息"^]。
+
+* 您需要擁有叢集的存取憑證。
+* 雖然這不是必需的，但如果NetApp控制台代理程式已到位並啟用，並且發現了ONTAP系統，則會很有幫助。如果沒有，該服務將引導您完成這些過程。
+* 如果您打算將冷資料分層到雲端存儲，請確保叢集符合授權的要求。
+
